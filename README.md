@@ -23,7 +23,7 @@ paper1:
    - 334
    title: AWS in support of Big Data Applications and Analytics
    abstract: This paper will explore the logistics of Amazon Web Services and how companies are currently utilizing the service to process their big data needs. 
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/sample-hid334/paper1/paper1.pdf
    type: latex
    
    status: in progress
