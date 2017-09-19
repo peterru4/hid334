@@ -10,7 +10,7 @@
 owner:
     hid: 334
     name: Peter Russell
-    url: https://github.com/bigdata-i523/sample-hid334
+    url: https://github.com/bigdata-i523/hid334
 ```
 
 # Paper 1
